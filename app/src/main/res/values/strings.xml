@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Belajar_SharedViewModel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_to_first_fragment_txt">To First Fragment</string>
+    <string name="btn_to_second_fragment_txt">To Second Fragment</string>
+    <string name="edt_name">Name</string>
+    <string name="edt_age">Age</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_clear_user">Clear User</string>
+    <string name="unknown">unknown</string>
+</resources>
